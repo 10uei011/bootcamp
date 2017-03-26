@@ -1,0 +1,23 @@
+{
+  "name": "bootcamp",
+  "version": "0.0.1",
+  "description": "Cli for ttn bootcamp(MEAN)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/10uei011/bootcamp.git"
+  },
+  "keywords": [
+    "bootcamp",
+    "MEAN"
+  ],
+  "author": "dipesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/10uei011/bootcamp/issues"
+  },
+  "homepage": "https://github.com/10uei011/bootcamp#readme"
+}
